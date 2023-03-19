@@ -35,7 +35,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://github.com/Mallikarjun-Karalatti/qr-code-component-main--1-/blob/master/qr-code-component-main/index.html)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
