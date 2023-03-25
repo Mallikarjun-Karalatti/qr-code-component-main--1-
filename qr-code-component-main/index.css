@@ -1,6 +1,9 @@
 body {
     background-color: hsl(212, 45%, 89%);
     font-family: 'Outfit', sans-serif;
+    min-height: 100vh;
+    display: grid;
+    place-items: center;
 }
 
 .hidden{
@@ -10,7 +13,7 @@ main {
    background-color: hsl(0, 0%, 100%);
    width: 270px;
    height: 450px;
-   margin: 30px auto;
+   /*margin: 30px auto;*/
    padding: 15px 5px 30px 5px;
 
    border-radius: 15px;
