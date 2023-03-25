@@ -3,6 +3,9 @@ body {
     font-family: 'Outfit', sans-serif;
 }
 
+.hidden{
+    font-size: 0;
+}
 main {
    background-color: hsl(0, 0%, 100%);
    width: 270px;
